@@ -1,0 +1,6 @@
+{
+  "name": "PICKO DoH Service",
+  "description": "Complete, modern DNS over HTTPS (DoH) Management Panel and production-ready Cloudflare Workers deployment generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
